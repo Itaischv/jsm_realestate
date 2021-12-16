@@ -42,8 +42,7 @@ const Search = ({ properties }) => {
                     <Text>
                         No Results Found
                     </Text>
-                </Flex>,
-
+                </Flex>
             )}
         </Box>
     )
